@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
-Mar7ba! Mar7ba! I'm a proud Lebanese American breaking into blue team security... the legal way... 
+Mar7ba! I'm a proud Lebanese American breaking into blue team security... the legal way... 
 
 I started this blog for three reasons:
 
